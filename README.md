@@ -17,6 +17,7 @@ When pressed, the arrow moves towards the circle.
 Upon impact, the circle’s color changes to a new random color.
 Add a **"Reset"** button:
 Resets the game to its initial state, allowing the user to play again.
+
 **Note:-**
 Verify that the circle and arrow are rendered correctly in Module 1.
 Test the interactivity of the "Hit" and "Reset" buttons in Module 2.

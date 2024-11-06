@@ -1,3 +1,5 @@
+**View Bubble App click here :- https://satyamjha1011.github.io/HTML5-Canvas-Bubbles-App/**
+
 # **HTML5-Canvas-Bubbles-App**
 This repository contains the code for the Bubbles App, a simple game built using plain JavaScript and HTML5 without any third-party libraries. The game is divided into two modules, each adding specific functionality to enhance the interactive experience.
 

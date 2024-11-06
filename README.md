@@ -38,7 +38,7 @@ Module 2: Adds interactivity with a "Hit" button that moves the arrow towards th
 This document contains the source code for a game where an arrow shoots towards a circle when a "Hit" button is clicked. The circle changes its color when hit by the arrow. The HTML, CSS, and JavaScript code are written without using any external libraries, complying with the requirement for a plain JavaScript application.
 The application features a canvas where a circle is displayed on the left and an arrow is positioned on the right. The arrow moves towards the circle when triggered by the "Hit" button, and a "Reset" button allows the user to reset the game.
 
-**Bubbles_App.html :**
+**index.html :**
 
 The uploaded documents describe a simple JavaScript-based game called "Bubbles App":
 **Game Overview:** A circle is displayed on the left side of a canvas, filled with a random color, and an arrow is positioned on the right. When the "Hit" button is clicked, the arrow moves towards the circle. Upon hitting the circle, the circle changes its color. A "Reset" button restores the game to its initial state with a new random circle color and resets the arrow position.
